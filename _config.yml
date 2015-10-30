@@ -1,0 +1,23 @@
+name: eolifehacks
+favicon: null
+layout_spectrum: 0.2541656447574496
+typography_spectrum: 0.5413072002120316
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.9408748860005289
+  lightness: 0.4008775227703154
+  saturation: 0.2967489091679454
+  rhythmicContrast: 0.3825180910062045
+purpose: []
