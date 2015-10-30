@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: What is EOlifeHacks? Read to learn what this site is all about.
-datePublished: '2015-10-30T19:34:45.290Z'
-dateModified: '2015-10-30T19:33:43.375Z'
+datePublished: '2015-10-30T19:37:42.837Z'
+dateModified: '2015-10-30T19:37:29.433Z'
 title: About
 sourcePath: _posts/2015-10-30-eolifehacks.md
 published: true
