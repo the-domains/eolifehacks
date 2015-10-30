@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[eolifehacks]]></title>
         <description><![CDATA[eolifehacks]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/eolifehacks/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 30 Oct 2015 18:21:50 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 30 Oct 2015 18:24:50 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/eolifehacks/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Essential Oils… What are they good for?  There is a saying that you will hear from just about everyone who has had the pleasure of using Essential Oils at one time or another and it goes like this.  “There’s an Oil for that.” For anyone not too familiar with essential oils, they might not understand what that means. For those who are familiar with and have experienced the power of essential oils, that saying brings a smile to you and a nod of acknowledgement that means, “Yes, I know exactly what you mean.”   empowerment, supportive, revitalizing… just a few of the words you hear when people talk about their experiences with Essential Oils</p>]]></description>
+            <link>https://thegrid.ai/eolifehacks/essential-oils-what-are-they-good-for-there-is-a-saying-t/index.html</link>
+            <guid isPermaLink="false">fc1be307-d3e0-4074-8653-f8da36892279</guid>
+            <pubDate>Fri, 30 Oct 2015 18:24:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://i2.wp.com/www.kathiortega.com/wp-content/uploads/2015/08/IMG_2519.jpg?zoom=2&resize=547%2C256">]]></description>
-            <link>undefined8aa982dc-078a-46e5-be85-a9cec1e02d68/index.html</link>
+            <link>https://thegrid.ai/eolifehacks/8aa982dc-078a-46e5-be85-a9cec1e02d68/index.html</link>
             <guid isPermaLink="false">8aa982dc-078a-46e5-be85-a9cec1e02d68</guid>
             <pubDate>Fri, 30 Oct 2015 18:21:50 GMT</pubDate>
         </item>
