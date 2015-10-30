@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[eolifehacks]]></title>
+        <description><![CDATA[eolifehacks]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 30 Oct 2015 18:21:50 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://i2.wp.com/www.kathiortega.com/wp-content/uploads/2015/08/IMG_2519.jpg?zoom=2&resize=547%2C256">]]></description>
+            <link>undefined8aa982dc-078a-46e5-be85-a9cec1e02d68/index.html</link>
+            <guid isPermaLink="false">8aa982dc-078a-46e5-be85-a9cec1e02d68</guid>
+            <pubDate>Fri, 30 Oct 2015 18:21:50 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
