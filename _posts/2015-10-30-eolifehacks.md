@@ -6,17 +6,17 @@ inLanguage: null
 starred: true
 keywords: []
 description: What is EOlifeHacks? Read to learn what this site is all about.
-datePublished: '2015-10-30T18:16:04.104Z'
-dateModified: '2015-10-30T18:14:31.600Z'
-title: EOlifeHacks
+datePublished: '2015-10-30T19:34:45.290Z'
+dateModified: '2015-10-30T19:33:43.375Z'
+title: About
+sourcePath: _posts/2015-10-30-eolifehacks.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-10-30-eolifehacks.md
-published: true
 url: eolifehacks/index.html
 _type: WebPage
 
